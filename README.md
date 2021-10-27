@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostcode24
+- 👋 Hi, I’m James Jerkowski!
 - 👀 I’m interested in code, music, entrepreneurship, and making a positive impact on the world.
 - 🌱 I’m currently working on improving my frontend skills and discovering cool APIs.
 - 💞️ I’m looking to collaborate on SaaS applications that exist to make the world better (Better = Efficiency x Impact), while promoting freedom, imagination, and prosperity.
